@@ -21,12 +21,4 @@ In order to validate this, we need to:
       
       Evaluate the impact of price changes on that likelihood
 
-🗃️ Data Requirements
-The following datasets were essential for analysis:
-
-Dataset	Description
-    Customer Data	Characteristics of each client (e.g., industry, historical electricity consumption, tenure)
-    Churn Data	Labels indicating whether each customer has churned
-    Historical Price Data	Electricity and gas pricing for each customer over time
-
 
